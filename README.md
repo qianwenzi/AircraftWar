@@ -1,2 +1,2 @@
 # AircraftWar
-用DirectX9写的飞机大战游戏
+An aircraft war game using DirectX and C++
